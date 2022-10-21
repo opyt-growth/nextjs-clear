@@ -25,5 +25,5 @@ https://www.primefaces.org/primereact/setup/
 3. Execute ```npx prisma db pull``` para transformar seu esquema de banco de dados em um esquema Prisma.
 4. Execute ```npx prisma generate``` para gerar o Prisma Client. Você pode então começar a consultar seu banco de dados.
 
-Mais informações em nossa documentação:
+Mais informações na documentação:
 https://pris.ly/d/getting-started
