@@ -26,7 +26,7 @@ https://www.primefaces.org/primereact/setup/
 ```npx prisma generate --schema ./prisma/schema.prisma```
 
 4. Logo em seguida pode executar <br/>
-```npx prisma db pull ./prisma/schema.prisma``` 
+```npx prisma db pull ./prisma/schema.prisma``` <br/>
 para transformar seu esquema de banco de dados em um esquema Prisma.
 
 Mais informações na documentação:
