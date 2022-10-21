@@ -23,7 +23,8 @@ https://www.primefaces.org/primereact/setup/
 ## Configuração do Prisma
 
 ### Passos para configuração e execução:
-1. Configure o ```DATABASE_URL``` no arquivo ```.env``` para apontar para seu banco de dados existente. Se seu banco de dados ainda não possui tabelas, leia https://pris.ly/d/getting-started
+1. Configure o ```DATABASE_URL``` no arquivo ```.env``` para apontar para seu banco de dados existente. Se seu banco de dados ainda não possui tabelas, leia https://www.prisma.io/docs/concepts/components/prisma-client
+
 2. Defina o provedor do bloco datasource em schema.prisma para corresponder ao seu banco de dados: ```postgresql```, ```mysql```, ```sqlite```, ```sqlserver```, ```mongodb``` ou ```cockroachdb```.
 3. Antes de executar o comando abaixo configurar o arquivo ```schema.prisma```
 ```bash
