@@ -1,3 +1,6 @@
+## Documentação do NextJS
+https://nextjs.org/docs
+
 ## Começando
 
 Primeiro, execute o servidor de desenvolvimento:
